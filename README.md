@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# 소개
 
-You can use the [editor on GitHub](https://github.com/MinJunsu/MinJunsu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+이름 : 민준수
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+학교 : 한양대학교(ERICA) 소프트웨어학과 1학년 재학중
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# 관심분야
 
-# Header 1
-## Header 2
-### Header 3
+- Python
 
-- Bulleted
-- List
+  - 가상화폐 과거 데이터 기반 분석 시뮬레이션 작업
 
-1. Numbered
-2. List
+    
 
-**Bold** and _Italic_ and `Code` text
+- JAVA
 
-[Link](url) and ![Image](src)
-```
+  - Mirae Asset Financial Festival 참가 중
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    
 
-### Jekyll Themes
+- Android
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MinJunsu/MinJunsu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  - 안드로이드 전용 Bitmex Rest API 작업 (GitHub 업로드 예정)
 
-### Support or Contact
+  - 자체적인 CandleStick Tool 작업 (GitHub 업로드 예정)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    
+
+- JavaScript
+
+
+
+# 자격증
+
+- SQL Developer
+- 컴퓨터 활용 능력 1급 (준비중)
+
+
+
